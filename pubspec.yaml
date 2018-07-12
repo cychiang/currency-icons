@@ -4,6 +4,9 @@ version: 0.0.1
 author: Casper CY Chiang <cychiang0823@gmail.com>
 homepage: https://github.com/cychiang
 
+environment:
+  sdk: '>=2.0.0-dev.55.0 <2.0.0'
+
 flutter:
   assets:
     - icons/currency/aed.png
