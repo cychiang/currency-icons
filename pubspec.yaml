@@ -1,11 +1,10 @@
 name: currency_icons
-description: A flutter package to display currency flag. Just specify currency name when create a new Image.
-version: 0.0.2
-author: Chuan-Yen Chiang <cychiang0823@gmail.com>
+description: A flutter package to display currency flag. Just specify currency name when creating a new Image.
+version: 0.2.0
 homepage: https://github.com/cychiang/currency-icons
 
 environment:
-  sdk: '>=2.0.0-dev.55.0 <3.0.0'
+  sdk: '>=2.10.0 <3.0.0'
 
 dependencies:
   flutter:
@@ -14,7 +13,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_launcher_icons: "^0.5.2"
+  flutter_launcher_icons: ^0.8.1
 
 flutter:
   assets:
@@ -169,3 +168,8 @@ flutter:
     - icons/currency/shp.png
     - icons/currency/try.png
     - icons/currency/wst.png
+    - icons/currency/npr.png
+    - icons/currency/sar.png
+    - icons/currency/sgd.png
+    - icons/currency/xaf.png
+    - icons/currency/xof.png
