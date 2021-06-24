@@ -1,3 +1,6 @@
+# 0.3.0 
+Add null safety
+
 # 0.2.0
 Add the following icons:
 * NPR
